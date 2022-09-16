@@ -1,3 +1,10 @@
 p {
  text align: center
-}
+} 
+
+    body {
+        background: #CCCCCC;
+    }
+    #livro{
+        width: 100%;
+    }
